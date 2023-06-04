@@ -1,5 +1,5 @@
 # World Economy Overview: The world bank data
-![Dashboard Preview](Data_files/dashboard.png)
+![Dashboard Preview](Data_files/Dashboard.png)
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@
 
 This project aims to provide an interactive dashboard built in Tableau using The world bank data. The dashboard presents a comprehensive overview of economic indicators from all countries in the databank from 1991 to 2021. Users can use the map as a filter to visually select the data they want to see or use the built-in search function on the map to write the country name.
 
-Feel free to explore the [dashboard on Tableau Public]([https://link-to-your-tableau-public-dashboard](https://public.tableau.com/app/profile/hamilton.roth.filho/viz/WorldEconomyOverviewTheworldbankdata/Dashboard1)). Feed back is always appreciated.
+Feel free to explore the [dashboard on Tableau Public](https://public.tableau.com/app/profile/hamilton.roth.filho/viz/WorldEconomyOverviewTheworldbankdata/Dashboard1). Feedback is always appreciated.
 
 ## Indicators provided
 

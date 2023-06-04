@@ -1,5 +1,5 @@
 # World Economy Overview: The world bank data
-![Dashboard Preview](Data%20files/dashboard.png)
+![Dashboard Preview](Data_files/dashboard.png)
 
 ## Table of Contents
 
